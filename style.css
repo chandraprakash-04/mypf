@@ -29,6 +29,11 @@ body {
   font-weight: 700;
   color: #ffffff;
 }
+.container-fluid a:hover{
+  font-size:none;
+  font-weight:none;
+  color: #ffffff;
+}
 .navbar {
   padding: 0;
 }
